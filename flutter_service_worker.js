@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "07949061372f8167d8c21e21a88b4bea",
-"assets/AssetManifest.json": "7fba3674f4ff928aad2b31d105103f3f",
+const RESOURCES = {"assets/AssetManifest.json": "7fba3674f4ff928aad2b31d105103f3f",
+"assets/AssetManifest.smcbin": "9bda9da9773c50ff5f5de2f339d08d24",
 "assets/assets/fonts/Dystopia-Alternate-Bold.ttf": "f590472d78ab082ab587ea927839d21f",
 "assets/assets/fonts/HardGrunge.ttf": "0c58e8ad18a14b02b2d4a9ee85fc6d4f",
 "assets/assets/fonts/TechnicznaPomoc.ttf": "f4ff2dd3275fbc7e3361b9a23f871a3f",
@@ -40,9 +40,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "07949061372f8167d8c21e21a88b4bea
 "icons/Icon-512.png": "117386fb1aeb15476ebfb564ff1e8906",
 "icons/Icon-maskable-192.png": "8b11e1bf41156b43fe1b8ea97e63dd8b",
 "icons/Icon-maskable-512.png": "117386fb1aeb15476ebfb564ff1e8906",
-"index.html": "ca2bd3111a17a0ebd22f243615bfa3f9",
-"/": "ca2bd3111a17a0ebd22f243615bfa3f9",
-"main.dart.js": "f92679869bfb895ec67c2afdff23aaa4",
+"index.html": "9492304408a91ba6360c2f8ded2acd3a",
+"/": "9492304408a91ba6360c2f8ded2acd3a",
+"main.dart.js": "5448793a66f015aedc176f13fd9edeef",
 "manifest.json": "4b6938843f8cb21291a17e4de0fbc102",
 "version.json": "b748dc40e0b7f6310ebaf82b5477e00d"};
 // The application shell files that are downloaded before a service worker can
